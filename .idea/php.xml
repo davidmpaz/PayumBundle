@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="c4fb8364-109a-4424-9375-9234203e27cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
       <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
@@ -147,81 +130,5 @@
       <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1i2nVEwDbP1DOOQZv2FOwVJ9Web" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="true" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Tests/Controller" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner scope="XML" />
-      <method v="2" />
-    </configuration>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="c4fb8364-109a-4424-9375-9234203e27cc" name="Default Changelist" comment="" />
-      <created>1601114575766</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1601114575766</updated>
-      <workItem from="1601114578360" duration="9221000" />
-      <workItem from="1601476134238" duration="708000" />
-      <workItem from="1601477087999" duration="89000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="508" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1601127051601">
-      <screen x="0" y="23" width="1440" height="806" />
-    </state>
-    <state x="508" y="114" key="#com.intellij.ide.util.MemberChooser/0.23.1440.806@0.23.1440.806" timestamp="1601127051601" />
-    <state x="458" y="187" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601128959824">
-      <screen x="0" y="23" width="1440" height="806" />
-    </state>
-    <state x="458" y="187" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.23.1440.806@0.23.1440.806" timestamp="1601128959824" />
-    <state x="432" y="158" key="NewPhpClassDialog" timestamp="1601116098492">
-      <screen x="0" y="23" width="1440" height="806" />
-    </state>
-    <state x="432" y="158" key="NewPhpClassDialog/0.23.1440.806@0.23.1440.806" timestamp="1601116098492" />
-    <state x="421" y="182" width="598" height="486" key="find.popup" timestamp="1601125847381">
-      <screen x="0" y="23" width="1440" height="806" />
-    </state>
-    <state x="421" y="182" width="598" height="486" key="find.popup/0.23.1440.806@0.23.1440.806" timestamp="1601125847381" />
-    <state x="385" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1601115800737">
-      <screen x="0" y="23" width="1440" height="806" />
-    </state>
-    <state x="385" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1601115800737" />
-  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
 </project>
